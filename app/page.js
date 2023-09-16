@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Empezando a editar en este archivo&nbsp;
+          Editando &nbsp;
           <code className={styles.code}>app/page.js</code>
         </p>
         <div>
@@ -15,7 +15,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Por aquí{' '}
+            Publicidad{' '}
             <Image
               src="/vercel.svg"
               alt="Vercel Logo"
@@ -47,7 +47,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Docs <span>-&gt;</span>
+            Documentos <span>-&gt;</span>
           </h2>
           <p>Find in-depth information about Next.js features and API.</p>
         </a>
@@ -86,7 +86,7 @@ export default function Home() {
             Despliegue <span>-&gt;</span>
           </h2>
           <p>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+            Instantáneamente deploy your Next.js site to a shareable URL with Vercel.
           </p>
         </a>
       </div>
