@@ -73,7 +73,7 @@ export default function Home() {
           <h2>
             Plantillas <span>-&gt;</span>
           </h2>
-          <p>Explore the Next.js 13 playground.</p>
+          <p>Explora the Next.js 13 playground.</p>
         </a>
 
         <a
